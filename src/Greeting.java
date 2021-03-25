@@ -11,7 +11,7 @@ public class Greeting {
 		System.out.println("Hello World!");
 	}
 
-	public void greetGerman() {
-		System.out.println("Hallo Welt!");
+	public void greetItalian() {
+		System.out.println("Bella Ciao!");
 	}
 }
